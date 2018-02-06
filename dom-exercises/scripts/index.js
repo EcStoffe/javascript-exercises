@@ -1,3 +1,5 @@
+//DE FÖRSTA SJU ÖVNINGARNA
+
 /*function init() {
     about = document.getElementById("about");
     about.style.color = 'blue';
@@ -6,7 +8,7 @@
 
 /*let myButton = document.getElementById('submit')
 
-myButton.addEventListener('click', function(e) {
+    myButton.addEventListener('click', function(e) {
     let firstName = document.getElementById('fname');
     let lastName = document.getElementById('lname');
 
@@ -57,11 +59,16 @@ delRow.addEventListener("click", function (e) {
 
 myfunction();*/
 
+/*
 let input = document.getElementById("myText");
 let value = input.getAttribute("value");
 
 myText.addEventListener("keyup", function () {
     console.clear();
-    console.log(myText.value);
+    console.log(myText67.value);
     console.log(value);
-})
+})*/
+
+/*SLUT PÅ DET FÖRSTA SJU ÖVNINGARNA*/
+
+
